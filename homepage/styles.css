@@ -3,14 +3,17 @@ body {
     font-family: Verdana, sans-serif;
   }
   /* button styles */
-  button   {
+button {
       background-color: #0d6efd;
       color: white;
       padding: 10px 20px;
       border: none;
       border-radius: 5px;
       }
-  button:hover {
+button:hover {
       background-color: blue;
       }
-  
+/*text for rickrolled message*/
+#rickroll {
+    font-family: monospace;
+}
